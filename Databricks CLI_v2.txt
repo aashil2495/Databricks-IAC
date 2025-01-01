@@ -50,4 +50,3 @@ Create External Location named "my_external_location" with storage credentails n
 databricks unity-catalog external-locations create --name my_external_location --url abfss://container@itmmystorageaccountcli.dfs.core.windows.net/ --storage-credential-name external-loc
 
 
-token-dapif7cd44309d6268871b0509744496bd12
